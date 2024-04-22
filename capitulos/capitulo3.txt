@@ -1,0 +1,1 @@
+a.[D[D[CGit permite la creacion de ramas lo que permite tener distintas versiones del mismo prajar de forma simultanea en ellas.
