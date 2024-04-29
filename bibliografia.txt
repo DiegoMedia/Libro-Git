@@ -1,1 +1,2 @@
-“Chacon, S. and Straub, B. Pro Git. Apress”
+Chacon, S and Stratub, B. Pro Git. Apress.
+Loeligen, J. and McCullough, M. Version Control with Git. O'Reilly.
